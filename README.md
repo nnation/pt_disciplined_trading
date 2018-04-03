@@ -8,6 +8,8 @@
 
 4. **Patience.** Some pairs will be held for 1 or 2 days. In other cases, a pair will be held for up to weeks.
 
+[This article](https://medium.com/@wisepapertiger/profit-trailer-bitcoin-cryptobot-that-makes-lots-of-money-bitcoin-currency-trading-c4f618e048fc) was the inspiration for these settings. I didn't come up with them on my own.
+
 ## Global Settings
 Bearish settings are based on a 3 hour anchor. This seems to be a good metric for determining overall health of a market. Bullish settings also require an anchor on 1 hour performance. This is because the bullish settings introduce additional risk, so we use an additional metric to ensure the bullish trend is consistent.
 
