@@ -43,6 +43,10 @@ These coins are showing very high increases in value. The chance that they will 
 
 **A:** You'll have that. This is the diciplined trading setup...meaning you'll need to be patient. Allow the DCA levels to do their thing and allow the market to do what it does. If you don't feel good about a pair, then by all means change your DCA depth. If you have success with different DCA setups (i.e., you don't overextend your balance) then please share =D
 
+**Q:** How much will I make?
+
+**A:** I do not know the answer to that question. However, I can share that I was making between 0.5% and 1.5% daily, albeit with very conservative pairs settings. I've increased my number of running pairs based on some recent observations, so I am hoping to move the lower end to 0.75% daily. But alas, I do not make the market and so I can only do my best to take advantage of it. I trust when PT 2.0 comes out, the bottom end of this range will continue to raise based on new indicators.
+
 **Q:** Can I make a donation?
 
 **A:** Nope! The best way you can donate is to share your feedback, ask questions, and share these settings if they help you. The developers of PTMagic do not charge for the application and I won't either. The best way for me to make more crypto is for you to make more crypto. What I mean by this is, as I get feedback and "we" as a community work on settings together, then we will all succeed together. **_"A rising tide lifts all boats."_**
