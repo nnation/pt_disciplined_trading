@@ -38,7 +38,15 @@ These coins are showing very high increases in value. The chance that they will 
 **A:** Bottom line up front: to make sure you're compounding. Longer explanation: if you use percentage, then each time you buy it will take into account previous gains/losses. If you're making gains, subsequent buys will be larger and will in theory return greater net gains.
 
 **Q:** I've had a pair in the pairs log for X number of days, what's up with this?
+
 **A:** You'll have that. This is the diciplined trading setup...meaning you'll need to be patient. Allow the DCA levels to do their thing and allow the market to do what it does. If you don't feel good about a pair, then by all means change your DCA depth. If you have success with different DCA setups (i.e., you don't overextend your balance) then please share =D
 
+**Q:** Can I make a donation?
+
+**A:** Nope! The best way you can donate is to share your feedback, ask questions, and share these settings if they help you. The developers of PTMagic do not charge for the application and I won't either. The best way for me to make more crypto is for you to make more crypto. What I mean by this is, as I get feedback and "we" as a community work on settings together, then we will all succeed together. **_"A rising tide lifts all boats."_**
+
 **Q:** What will the sales look like?
+
+**A:** Like this:
+
 ![Sales Log Example](https://i.imgur.com/lCreMNg.jpg)
