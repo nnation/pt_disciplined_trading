@@ -26,13 +26,16 @@ These coins are showing very high increases in value. The chance that they will 
 **A:** Yes. You will need to update the below two properties in your PAIRS.properties.
 
     market = BTC
-    ALL_max_trading_pairs = [your value here]
-    ALL_min_buy_volume = [your value here]
+    ALL_max_trading_pairs = [your value here, see next question]
+    ALL_min_buy_volume = [your value here, recommend 400-700]
 
 **Q:** What should I set ALL_max_trading_pairs to?
 
-**A:** You'll need to determine what your max trading pairs is based on your comfort levels, balance, DCA levels, and risk acceptance. Let's say you have a good ETH balance like 2 ETH....in this case I'd trade more pairs, instead of larger pairs. This will pool your risk among many pairs. If you have a lower balance, then clearly you'll only be able to run less pairs. The true limiting factor on the number of pairs you run is your DCA setup. The current DCA setup is "deep" and so allows for a large number of pairs to be traded as the likelihood of DCA3 and DCA4 is less likely. Recommend you check out [this file](https://docs.google.com/spreadsheets/d/1RAh-xjqsOQITBZmaf2ZTbPqq2aqjyKwF_kJuesaMFPc/edit?usp=sharing) provided by JB, a member of the Crypto Gnome team.
+**A:** You'll need to determine what your max trading pairs is based on your comfort levels, balance, DCA levels, and risk acceptance. As of this FAQ, I have 0.85 ETH. I can trade up to 18 pairs at a time. Your max trading pairs will be based on (1) your assumption of how many pairs will enter the various DCA levels (2) the **depth** of the DCA levels (3) ALL_max_cost_percentage. The true limiting factor on the number of pairs you run is your DCA setup. The current DCA setup is "deep" and so allows for a large number of pairs to be traded as the likelihood of DCA3 and DCA4 is less likely. Please take a look at my a helper spreadhseet I made availabe on [GoogleDocs](https://docs.google.com/spreadsheets/d/1pjx3M85yikbTD2DcVoZ22OkHuMWRHobwDwxa3R-SWuk/edit?usp=sharing).
 
 **Q:** Why do you use ALL_max_cost_percentage instead of ALL_max_cost?
 
 **A:** Bottom line up front: to make sure you're compounding. Longer explanation: if you use percentage, then each time you buy it will take into account previous gains/losses. If you're making gains, subsequent buys will be larger and will in theory return greater net gains.
+
+**Q:** I've had a pair in the pairs log for X number of days, what's up with this?
+**A:** You'll have that. This is the diciplined trading setup...meaning you'll need to be patient. Allow the DCA levels to do their thing and allow the market to do what it does. If you don't feel good about a pair, then by all means change your DCA depth. If you have success with different DCA setups (i.e., you don't overextend your balance) then please share =D
