@@ -25,7 +25,7 @@ These coins are showing very high increases in value. The chance that they will 
 # FAQ
 **Q:** Will this work with BTC?
 
-**A:** Yes. You will need to update the below two properties in your PAIRS.properties.
+**A:** Yes. You will need to update the below properties in your PAIRS.properties.
 
     market = BTC
     ALL_max_trading_pairs = [your value here, see next question]
