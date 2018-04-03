@@ -1,6 +1,6 @@
 # Background and Settings
 ## Thought Process Behind Settings
-1. **Buy on evidence of good behavior.** I.E. EMAGAIN on a longer outlook (1 hour candles). When PT 2.0 comes out, look forward to buying on RSI as an indicator.
+1. **Buy on evidence of good behavior.** I.E. EMASPREAD on a longer outlook (1 hour candles). When PT 2.0 comes out, look forward to buying on RSI as an indicator.
 
 2. **Until PT 2.0 comes out, no buying on a downtrend (yet).** Feel free to change things up in settings.analyzer.json if you want to buy on a downtrend
 
@@ -17,7 +17,7 @@ Bearish settings are based on a 3 hour anchor. This seems to be a good metric fo
 Too much risk. Remove if you want to try to jump on a pump.
 
 ### Downtrend
-So the EMAGAIN setup buys when there's been an established trend of positive price action. If there's a significant dip, we avoid buying in because it could be indication that the run is over.
+So the EMASPREAD setup buys when there's been an established trend of positive price action. If there's a significant dip, we avoid buying in because it could be indication that the run is over.
 
 ### High Risk Pump
 These coins are showing very high increases in value. The chance that they will crash is too great to risk.
