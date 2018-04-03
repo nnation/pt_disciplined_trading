@@ -55,4 +55,4 @@ These coins are showing very high increases in value. The chance that they will 
 
 **A:** Like this:
 
-![Sales Log Example](https://i.imgur.com/lCreMNg.jpg)
+![Sales Log Example](https://imgur.com/IvA9reX.jpg)
