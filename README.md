@@ -39,3 +39,6 @@ These coins are showing very high increases in value. The chance that they will 
 
 **Q:** I've had a pair in the pairs log for X number of days, what's up with this?
 **A:** You'll have that. This is the diciplined trading setup...meaning you'll need to be patient. Allow the DCA levels to do their thing and allow the market to do what it does. If you don't feel good about a pair, then by all means change your DCA depth. If you have success with different DCA setups (i.e., you don't overextend your balance) then please share =D
+
+**Q:** What will the sales look like?
+![Sales Log Example](https://i.imgur.com/lCreMNg.jpg)
