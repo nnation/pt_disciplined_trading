@@ -3,7 +3,7 @@
 ## Thought Process Behind Settings
 1. **Buy on evidence of good behavior.** I.E. EMASPREAD on a longer outlook (1 hour candles). When PT 2.0 comes out, look forward to buying on RSI as an indicator.
 
-2. **Until PT 2.0 comes out, no buying on a downtrend (yet).** Feel free to change things up in settings.analyzer.json if you want to buy on a downtrend
+2. **Currently testing buying on a downtrend.** Uses LOWBB, the conditions must be slightly extreme but should result in a good return!
 
 3. **DCA with great depth.** DCA depth is much greater to prevent rapid consumption of capital. This will require patience. If you look at pairs that don't perform well, at least some of them still get good pumps that will allow the situation to break out of the DCA. But these pumps happen serendipitously and you'll need to wait them out or panic sell.
 
@@ -27,10 +27,14 @@ These coins are showing very high increases in value. The chance that they will 
 **Q:** Will this work with BTC?
 
 **A:** Yes. You will need to update the below properties in your PAIRS.properties.
-
+    
+    --PAIRS.properties--
     market = BTC
     ALL_max_trading_pairs = [your value here, see next question]
     ALL_min_buy_volume = [your value here, recommend 400-700]
+    
+    --settings.analyzer.json--
+    Change the ignored markets for market trends
 
 **Q:** What should I set ALL_max_trading_pairs to?
 
