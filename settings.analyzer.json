@@ -56,9 +56,11 @@
         "PairsProperties": {
           "ALL_sell_only_mode": true,
           "ALL_dca_enabled": false,
-          "sell_value_OFFSETPERCENT": -25.00
+          "sell_value_OFFSETPERCENT": -33.00
         },
-        "DCAProperties": {},
+        "DCAProperties": {
+          "rebuy_timeout": 4320
+        },
         "IndicatorsProperties": {}
       },
       {
@@ -76,7 +78,7 @@
           "ALL_trailing_profit": 0.50
         },
         "DCAProperties": {
-          "sell_value_OFFSETPERCENT": -12.50,
+          "ALL_sell_value_OFFSETPERCENT": -10.00,
           "rebuy_timeout": 2880
         },
         "IndicatorsProperties": {}
@@ -98,8 +100,9 @@
           "ALL_sell_value_OFFSETPERCENT": 66.66
         },
         "DCAProperties": {
-          "sell_value": 4.00,
-          "trailing_profit": 1.00
+          "ALL_sell_value_OFFSETPERCENT": 33.33,
+          "trailing_profit": 1.00,
+          "rebuy_timeout": 720
         },
         "IndicatorsProperties": {}
       },
@@ -121,8 +124,9 @@
           "ALL_sell_value_OFFSETPERCENT": 33.33
         },
         "DCAProperties": {
-          "sell_value": 3.50,
-          "trailing_profit": 0.83
+          "sell_value_OFFSETPERCENT": 16.66,
+          "trailing_profit": 0.83,
+          "rebuy_timeout": 1080
         },
         "IndicatorsProperties": {}
       },
@@ -184,7 +188,7 @@
       },
       {
         "SettingName": "Downtrend",
-        "TriggerConnection": "OR",
+        "TriggerConnection": "AND",
         "StopProcessWhenTriggered": true,
         "Triggers": [
           {
