@@ -3,7 +3,7 @@
 ## Thought Process Behind Settings
 1. **Buy on evidence of good behavior.** I.E. EMASPREAD on a longer outlook (1 hour candles). When PT 2.0 comes out, look forward to buying on RSI as an indicator.
 
-2. **Currently testing buying on a downtrend.** Uses LOWBB, the conditions must be slightly extreme but should result in a good return!
+2. **Currently testing buying on a downtrend.** Uses LOWBB, the conditions are a bit extreme so don't count on too many buys, but should result in a good return!
 
 3. **DCA with great depth.** DCA depth is much greater to prevent rapid consumption of capital. This will require patience. If you look at pairs that don't perform well, at least some of them still get good pumps that will allow the situation to break out of the DCA. But these pumps happen serendipitously and you'll need to wait them out or panic sell.
 
@@ -60,4 +60,5 @@ These coins are showing very high increases in value. The chance that they will 
 
 **A:** Like this:
 
-![Sales Log Example](https://imgur.com/IvA9reX.jpg)
+![Sales Log Example](https://imgur.com/cinhHSu.jpg)
+![PTMagic Balance Prediction](https://imgur.com/TUAKmiZ.jpg)
